@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\build\contrib\zlib\Debug\zlibd.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

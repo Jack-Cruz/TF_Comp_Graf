@@ -1,0 +1,61 @@
+﻿  Source.cpp
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\exponential.hpp(21,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\detail\func_geometric.inl(1,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\geometric.hpp(116,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\detail\func_matrix.inl(1,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\matrix.hpp(161,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\detail\type_mat4x4.inl(1,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\detail\type_mat4x4.hpp(188,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\ext\matrix_double4x4.hpp(5,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\mat4x4.hpp(5,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\glm\gtc\matrix_transform.hpp(24,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\typedef.h(8,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\model.h(5,1): warning C4103: se ha cambiado la alineación después de incluir el encabezado; puede ser que falte #pragma pack(pop)
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\mesh.h(46,1): warning C4267: 'inicializando': conversión de 'size_t' a 'glm::u32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\mesh.h(46,1): warning C4267: 'inicializando': conversión de 'size_t' a 'const glm::u32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\mesh.h(47,1): warning C4267: 'inicializando': conversión de 'size_t' a 'glm::u32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\mesh.h(47,1): warning C4267: 'inicializando': conversión de 'size_t' a 'const glm::u32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\mesh.h(116,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(34,1): warning C4305: 'inicializando': truncamiento de 'double' a 'f32'
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(43,12): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(44,12): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(48,11): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(49,11): warning C4244: '=': conversión de 'f64' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(74,1): warning C4305: '=': truncamiento de 'double' a 'f32'
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(77,9): warning C4552: ">": el resultado de la expresión no se usa
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(91,1): warning C4305: '=': truncamiento de 'double' a 'f32'
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\cam.h(93,1): warning C4305: '=': truncamiento de 'double' a 'f32'
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(80,20): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(82,22): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(89,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(97,20): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(99,22): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(106,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(118,20): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(119,21): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(128,20): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(129,21): warning C4018: '<': no coinciden signed/unsigned
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(130,46): warning C4244: 'argumento': conversión de 'i32' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(130,41): warning C4244: 'argumento': conversión de 'i32' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(130,26): warning C4244: '=': conversión de 'i32' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(162,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(321,20): warning C4244: 'inicializando': conversión de 'double' a 'f32'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(385,49): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(394,51): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\jack\Source.cpp(403,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_thread.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(osmesa_context.obj)' o en 'D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  jack.vcxproj -> D:\JC\UPC 2021-01\Comp. Graf\JackCruz\jack\x64\Debug\jack.exe

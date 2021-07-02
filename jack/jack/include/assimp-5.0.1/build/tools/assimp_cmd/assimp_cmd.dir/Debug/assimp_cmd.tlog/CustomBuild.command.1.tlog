@@ -1,0 +1,10 @@
+^D:\JC\UPC 2021-01\COMP. GRAF\JACKCRUZ\GIT OPENGL\INCLUDE\ASSIMP-5.0.1\TOOLS\ASSIMP_CMD\CMAKELISTS.TXT
+setlocal
+"D:\JC\UPC 2021-01\Comp. Graf\JackCruz\cmake-3.20.4-windows-x86_64\cmake-3.20.4-windows-x86_64\bin\cmake.exe" "-SD:/JC/UPC 2021-01/Comp. Graf/JackCruz/Git OpenGL/include/assimp-5.0.1" "-BD:/JC/UPC 2021-01/Comp. Graf/JackCruz/Git OpenGL/include/assimp-5.0.1/build" --check-stamp-file "D:/JC/UPC 2021-01/Comp. Graf/JackCruz/Git OpenGL/include/assimp-5.0.1/build/tools/assimp_cmd/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

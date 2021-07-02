@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\CompareDump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\ImageExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\WriteDumb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\Info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\Export.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\JC\UPC 2021-01\Comp. Graf\JackCruz\Git OpenGL\include\assimp-5.0.1\tools\assimp_cmd\assimp_cmd.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FB27496A-A94F-370B-93D4-A9353715FBC3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B6E2B8A6-049C-35BA-8FE1-D8964146E1F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
